@@ -9,7 +9,7 @@
   .card {
     width: 20em;
     height: 25em;
-    border-radius: 14px;
+    border-radius: 13px;
   }
   
   #card-header-symbol {
@@ -17,8 +17,8 @@
   }
   
   #card-number {
-    font-size: 93px;
-    font-weight: bold;
+    font-size: 97px;
+    font-weight:600;
   }
   
   #card-footer-symbol {
