@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html body {
+    background-color: #009624;
+  }
+  
+  .card {
+    width: 20em;
+    height: 25em;
+    border-radius: 14px;
+  }
+  
+  #card-header-symbol {
+    font-size: 69px;
+  }
+  
+  #card-number {
+    font-size: 93px;
+    font-weight: bold;
+  }
+  
+  #card-footer-symbol {
+    font-size: 69px;
+  }
+  
